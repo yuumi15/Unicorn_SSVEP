@@ -14,13 +14,15 @@ Data was self-curated from Seven test subjects (Participants of ISN). The sessio
 
 ![image](https://github.com/user-attachments/assets/6190949f-f964-47ef-8992-9dac9dd597fd)
 
-Overall Accuracy Across Subjects: 26.79
-
-Removing Subject 3 woul increase the overall accuracy since his data seems noisy/corrupted.
+- Overall Accuracy Across Subjects: 26.79
+- Removing Subject 3 woul increase the overall accuracy since his data seems noisy/corrupted.
 
 ## Files
-
+- The Dataset: Dataset_7 Subjects_SSVEP_Unicorn.rar 
+- The Main Script: cca_ssvep_UnicorN_Team.ipynb 
+- Secondery/Imported Functions: utilss.py
+- 
 ## Credits
 - Nada O. Salah & Farida Sharaf (Official Team)
-- Dr. Nour Almandany (Assisted with conceptualization and debugging)
+- Dr. Nour Eldin Elmadany (Assisted with conceptualization and debugging)
 - Kareem Akram Hagi (Curated, and tested the interface codes)
