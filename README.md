@@ -7,7 +7,12 @@ We applied Canonical Correlation Analysis (CCA) to classify the frequencies base
 ## Data Acquisition 
 Data was self-curated from Seven test subjects (Participants of ISN). The session was 3-minute long per participant. The following table contains the critical information.
 
+![IMG_2508](https://github.com/user-attachments/assets/37851841-3bf4-492d-84f7-0d08a60a57c8)
+(Figure 1: One of the participants recording the task)
+
 ![image](https://github.com/user-attachments/assets/b9656f04-bb7b-43fe-8635-258090753172)
+
+(Table 1: The experiment information)
 
 
 ## Preliminary results
